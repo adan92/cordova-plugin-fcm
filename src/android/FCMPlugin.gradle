@@ -3,8 +3,7 @@ buildscript {
             jcenter()
 			mavenLocal()
         }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:3.1.2'
+    dependencies { 
         classpath 'com.google.gms:google-services:3.1.0'
     }
 }
